@@ -354,7 +354,8 @@
   <project path="vendor/tmobile/providers/ThemeManager" name="android_vendor_tmobile_providers_ThemeManager" remote="cm" revision="cm-10.1" />
   <project path="vendor/tmobile/products/themes" name="android_vendor_tmobile_products_themes" remote="cm" revision="cm-10.1" />
   <project path="vendor/samsung/maguro" name="android_vendor_samsung_maguro" remote="fj" revision="tu2" />
-
+  <project path="vendor/lge/mako" name="android_vendor_lg_mako" remote="fj" revision="tu2" />
+  <project path="autobuild" name="autobuild" remote="fj" revision="mako" />
   <project path="platform_manifest" name="platform_manifest" remote="fj" revision="tu2" />
 
 </manifest>
